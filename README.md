@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KundanDG52
-- Full Stack Software Developer / NodeJS Developer with proper understanding of programming language like JavaScript.
+-  Frontend /Fullstack developer with proper understanding of programming language like JavaScript.
 - 🌱 I’m currently learning ...programming language like HTML CSS JAVASCRIPT & others like SQL.
 - Knowledge of  NodeJS ExpressJS Server model MongoDB.
 - 💞️ I’m looking to collaborate on ...
