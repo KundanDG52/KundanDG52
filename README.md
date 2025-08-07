@@ -1,2 +1,2 @@
-Hi, I’m @KundanDG52
+Hi, I’m Kundan
 Frontend /Fullstack developer 
