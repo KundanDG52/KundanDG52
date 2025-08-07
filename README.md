@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @KundanDG52
--  Frontend /Fullstack developer with proper understanding of programming language like JavaScript, Python, Java, Go
-- 🌱 I have knowledge of HTML CSS JAVASCRIPT & ReactJS others like SQL.
-- Knowledge of NodeJS ExpressJS Server model MongoDB.
+Hi, I’m @KundanDG52
+Frontend /Fullstack developer 
